@@ -1,0 +1,2 @@
+Pork In Broth,1.0,item,Pork Chops_Pork Broth,1.0_1.0,120.0,20.0
+Tuesday Special,1.0,item,Pork Chops_Onion And Pepper_Pork Broth,1.0_1.0_0.1,126.0,21.0

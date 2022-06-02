@@ -1,0 +1,9 @@
+Porkchop,2.0,lbs,,,0,10.6
+Carrot,10.0,kg,,,0,1.0
+Onion,1.0,kg,,,0,1.0
+Pepper,8.0,kg,,,0,3.0
+Tomato,1.0,kg,,,0,1.0
+Potato,6.0,kg,,,0,1.0
+Pork,1.0,kg,,,0,10.5
+Beef,100.0,kg,,,0,89.99
+Clarified Butter,1.0,kg,,,0,0.5
